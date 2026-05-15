@@ -33,8 +33,7 @@ Melee enemies attack the barrier while ranged enemies shoot from lanes.
 ### Art Assets
 - Background, Rubber Duck Model, and Barrier Texture from Poly Haven (polyhaven.com)
 
--## Contributions
-
+## Contributions
 ### Christopher Quinonez
 - Developed the core gameplay systems in Unity
 - Implemented player movement, shooting, enemy behavior, wave spawning, UI systems, menus, audio integration, and game over functionality
